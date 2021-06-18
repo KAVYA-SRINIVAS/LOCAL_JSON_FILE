@@ -1,0 +1,27 @@
+[
+    {
+      "image": "https://www.artofliving.org/sites/www.artofliving.org/files/wysiwyg_imageupload/Savasana%20%28Corpse%20Pose%29_2_0.jpg",
+      "name": "SAVASANA",
+      "description": "Complete relaxation  of the body"
+    },
+    {
+      "image": "https://st1.thehealthsite.com/wp-content/uploads/2015/01/Vakrasana.jpg",
+      "name": "VAKRASANA",
+      "description": "Sitting position"
+    },
+    {
+      "image": "https://www.uptownyoga.com/wp-content/uploads/2019/10/Navasana-Yoga-Pose.jpg",
+      "name": "NAVASANA",
+      "description": "Boat Position"
+    },
+    {
+      "image": "https://i.ndtvimg.com/i/2016-06/dhanurasana_625x350_61466409878.jpg",
+      "name": "DHANURASANA",
+      "description": "Exercise for both hands and legs"
+    },
+    {
+      "image": "https://img.etimg.com/thumb/msid-64678212,width-640,resizemode-4,imgsize-15054/sarvangasana.jpg",
+      "name": "SARVANGASANA",
+      "description": "Exercise for legs"
+    }
+  ]
